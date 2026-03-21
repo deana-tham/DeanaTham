@@ -1,8 +1,6 @@
 # Hi, I'm Deana Tham 👋
 
-Just trying to exploring creative, useful, and weird products.
-
-I use this GitHub as a **Product Lab** to document ideas, teardowns, and experiments.
+I am using this github to play with ideas. Just trying to exploring creative, useful, and weird products.
 
 ## 🧪 Product Lab Sections
 
@@ -13,7 +11,7 @@ Just silly product ideas that explore creativity and constraints.
 Ideas that solve real problems with simple solutions.
 
 🔍 How to Improve  
- Ideas on how my products could be better.
+ Ideas on how my products could be better. 
 
 📦 Product Teardowns  
 Deep analysis of real companies and apps.
@@ -29,5 +27,5 @@ Things I want to learn or practice.
   
 ## Featured Work
 
-Coming soon.
+Coming soon. Hopefully... 
 
