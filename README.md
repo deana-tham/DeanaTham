@@ -2,28 +2,27 @@
 
 I am using this github to play with ideas. Just trying to exploring creative, useful, and weird products.
 
-## 🧪 Product Lab Sections
+## Categories 
 
-🚀 Silly Products  
+ Silly Products  
 Just silly product ideas that explore creativity and constraints.
 
-🛠 Helpful Products  
+ Helpful Products  
 Ideas that solve real problems with simple solutions.
 
-🔍 How to Improve  
+ How to Improve  
  Ideas on how my products could be better. 
 
-📦 Product Teardowns  
+ Product Teardowns  
 Deep analysis of real companies and apps.
 
-📚 Studying / Practice  
+Studying / Practice  
 Things I want to learn or practice. 
 
 ## Current Projects
 
 - Idea fish tank
 - accountability journal 
-- pinterest-figma-claude-mcp
   
 ## Featured Work
 
